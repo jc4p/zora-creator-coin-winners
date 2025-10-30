@@ -155,7 +155,7 @@ python3 analyze-classifications.py
 ├─────────────────────────────────────────────────────────────────┤
 │                                                                   │
 │  detect-creator-fees-api.js  OR  detect-creator-fees.js         │
-│            (API-based)              (On-chain)                   │
+│            (API-based)              (Onchain)                   │
 │                 │                       │                        │
 │                 └───────────┬───────────┘                        │
 │                             ↓                                     │
